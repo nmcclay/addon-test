@@ -1,1 +1,1 @@
-export { default } from 'intelligence-engine/components/foo-bar';
+export { default } from 'addon-test/components/foo-bar';
